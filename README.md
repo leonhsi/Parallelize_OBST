@@ -42,6 +42,6 @@ Implement 3 different parallel methods to speedup optimal binary search tree.
 ![](https://i.imgur.com/HhnbXZd.png)
 
 ## Result
-![](https://imgur.com/xAqbPQ6)
+![](https://imgur.com/xAqbPQ6.png)
 
 
